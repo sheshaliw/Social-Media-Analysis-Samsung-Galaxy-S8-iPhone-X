@@ -20,6 +20,7 @@ Twitter Data:
 Data between 3/1/17 thru 6/30/17: T Only 3_1_2017 thru 6_30_2017 Random Stream (1).xlsx
 Data between 9/1/17 thru 10/31/17: T Only 9_1_2017 thru 10_31_2017 Random Stream (1).xlsx
 
+Data Link - https://drive.google.com/drive/folders/1iyuZCZVOO-tre2lIlpK_-gvO4W1TlZMO?usp=share_link
 
 
 NOTES:
